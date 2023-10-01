@@ -21,3 +21,9 @@ build.gradle
 gradle/wrapper/gradle-wrapper.jar
 gradle-wrapper.properties
 .gitignore
+.gradle/file-system.probe
+.gradle/7.6.1/executionHistory/executionHistory.bin
+.gradle/7.6.1/fileHashes/fileHashes.bin
+.gradle/7.6.1/fileHashes/resourceHashesCache.bin
+.gradle/buildOutputCleanup/outputFiles.bin
+.idea/jarRepositories.xml
