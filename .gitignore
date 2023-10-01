@@ -27,3 +27,6 @@ gradle-wrapper.properties
 .gradle/7.6.1/fileHashes/resourceHashesCache.bin
 .gradle/buildOutputCleanup/outputFiles.bin
 .idea/jarRepositories.xml
+build/resolvedMainClassName
+build/tmp/compileJava/previous-compilation-data.bin
+build/tmp/compileJava/compileTransaction/stash-dir/IndexController.class.uniqueId0
