@@ -31,3 +31,4 @@ build/resolvedMainClassName
 build/tmp/compileJava/previous-compilation-data.bin
 build/tmp/compileJava/compileTransaction/stash-dir/IndexController.class.uniqueId0
 TaskController.class.uniqueId0
+TaskService.class.uniqueId1
